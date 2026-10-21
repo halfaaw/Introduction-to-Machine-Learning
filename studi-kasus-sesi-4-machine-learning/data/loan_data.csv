@@ -1,0 +1,9 @@
+loan_id,income,credit_history,employment_status,loan_status
+L001,50000,1,1,Approved
+L002,30000,0,0,Rejected
+L003,80000,1,1,Approved
+L004,25000,0,0,Rejected
+L005,60000,1,1,Approved
+L006,45000,0,1,Rejected
+L007,70000,1,1,Approved
+L008,35000,1,0,Rejected
